@@ -1,0 +1,19 @@
+{
+  "name": "dump-video-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "handlebars": "^4.7.7",
+    "hbs": "^4.2.0",
+    "node-m3u8-to-mp4": "^3.0.0",
+    "socket.io": "^4.7.0"
+  }
+}
